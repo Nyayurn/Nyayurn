@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nyayurn
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Kotlin, Rust, C#
+- 🌱 I’m currently learning Kotlin, Rust
